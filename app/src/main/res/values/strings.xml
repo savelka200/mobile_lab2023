@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">smarthome</string>
+    <string name="title_home">Rent</string>
+    <string name="title_dashboard">RGB Lamp</string>
+    <string name="title_notifications">Room Service</string>
+    <string name="title_sleep">Sleep</string>
+</resources>
